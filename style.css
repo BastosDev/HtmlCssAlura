@@ -51,8 +51,11 @@ a {
 }
 
 img {
+    background: linear-gradient(70deg,  rgb(76, 79, 90), black);
+    border-radius: 12px;
+    padding: 5px;
+    background-clip: padding-box;
+    border: 3px solid transparent;
     position: relative;
     top: 100px; left: 1000px;
-    border-radius: 20px;
-    border: 3px solid white;
 }
