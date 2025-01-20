@@ -42,12 +42,14 @@ span {
 }
 
 a {
+    text-decoration: none;
     position: relative;
     top: -100px; left: 700px;
     border: 10px solid rgb(68, 86, 138);
     background-color: rgb(68, 86, 138);
     color: white;
     border-radius: 10px;
+
 }
 
 img {
